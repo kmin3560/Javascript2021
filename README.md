@@ -1,14 +1,14 @@
 # Front-End Delvelop
 
-https://codesandbox.io/
-
-https://www.w3schools.com/
+> https://codesandbox.io/
+>
+> https://www.w3schools.com/
 
 ## 수업 공유 링크
 
-https://github.com/edu-ministori/addinedu_10
-
-https://codesandbox.io/s/html-css-hc9rd?file=/README.md
+> https://github.com/edu-ministori/addinedu_10
+>
+> https://codesandbox.io/s/html-css-hc9rd?file=/README.md
 
 ## Mark Down 문서
 
@@ -34,8 +34,8 @@ https://codesandbox.io/s/html-css-hc9rd?file=/README.md
 - 클라이언트 : 사용자가 사용하는 디바이스에서 실행되는 소프트웨어
   Ex) 모바일 웹 / 소프트웨어 / 브라우저(웹앱/웹페이지)
 
--서버 : 서비스 제공하는 컴퓨터에서 실행되는 소프트웨어
-Ex) 서버 소프트웨어 : Apache(Linux), IIS(Window Server)
+- 서버 : 서비스 제공하는 컴퓨터에서 실행되는 소프트웨어
+  Ex) 서버 소프트웨어 : Apache(Linux), IIS(Window Server)
 
 - 웹 개발 : 클라이언트(브라우저) / 서버 (Apache, IIS)
 
